@@ -26,6 +26,8 @@
 
 ### 🔨 Run the App
 
+#### Maven
+
 <b>1 )</b> Download your project from this link shown below
 ```
     git clone https://github.com/Rapter1990/findshortestpathbfs
@@ -44,6 +46,16 @@
 <b>4 )</b> Run the project though this command shown below
 ```
     mvn spring-boot:run
+```
+
+#### Docker
+<b>1 )</b> Build the image through Docker
+```
+    docker build -t findshortestpathbfs .
+```
+<b>2 )</b> Run the command
+```
+    docker run -p8080:8080 findshortestpathbfs
 ```
 
 
@@ -88,7 +100,5 @@ Explore Rest APIs
 <details>
 <summary>Click here to show the screenshots of project</summary>
     <p> Figure 1 </p>
-    <img src ="">
-    <p> Figure 2 </p>
-    <img src ="">
+    <img src ="/screenshots/screenshot_1.PNG">
 </details>    
