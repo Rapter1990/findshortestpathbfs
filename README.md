@@ -1,6 +1,6 @@
 # Find the Shortest Path through Breadth First Search in Spring Boot  
 
-<img src="screenshots/spring_boot_bfs_feign.png" alt="Main Information" width="600" height="400">
+<img src="screenshots/spring_boot_bfs_feign.png" alt="Main Information" width="800" height="600">
 
 ### 📖 Information
 
