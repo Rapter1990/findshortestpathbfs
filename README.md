@@ -1,16 +1,15 @@
 # Find the Shortest Path through Breadth First Search in Spring Boot  
 
-<img src="" alt="Main Information" width="800" height="500">
+<img src="screenshots/spring_boot_bfs_feign.png" alt="Main Information" width="600" height="400">
 
 ### 📖 Information
 
 <ul style="list-style-type:disc">
-  <li>General Info</li>
-  <li>General Info</li>
+  <li>Breadth-First Search algorithm is a graph traversing technique, where you select a random initial node (source or root node) and start traversing the graph layer-wise in such a way that all the nodes and their respective children nodes are visited and explored</li>
   <li>Here is the explanation of the project
       <ul>
-        <li>Project Info</li>
-        <li>https://mledoze.github.io/countries</li>
+        <li>Find the shortest path between two countries cca3 code with respect to the resource defined below.</li>
+        <li>Here is the resource link : https://mledoze.github.io/countries</li>
       </ul>
   </li>
 </ul>
