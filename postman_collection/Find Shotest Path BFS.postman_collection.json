@@ -1,0 +1,40 @@
+{
+	"info": {
+		"_postman_id": "a10d967b-ed0a-4f54-a058-f180a0401d22",
+		"name": "Find Shotest Path BFS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Find Shortest Path Between Two Countries",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"from\" : \"NOR\",\r\n    \"to\" : \"TUR\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/route",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"route"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
